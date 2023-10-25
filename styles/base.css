@@ -6,6 +6,7 @@
   --color-button-primary-text: var(--color-primary);
   --color-button-secondary-bg: var(--color-primary);
   --color-button-secondary-text: var(--color-text-on-primary);
+  --color-text-on-secondary: #000000;
   --font-family: "Inter", sans-serif;
 }
 body {
@@ -21,6 +22,7 @@ body {
   background: var(--color-text-on-primary);
   color: var(--color-primary);
 }
+h2,
 p {
   margin: 0;
 }
